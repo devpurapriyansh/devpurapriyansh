@@ -1,9 +1,13 @@
-### Hi there 👋
 
 <!--
-**devpurapriyansh/devpurapriyansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hey there !👋
+
+Bio: 
+Name:- Priyansh Devpura 
+Education:- First year Computer Science undergraduate student
+Pursuing bachelor's of Computer Science and Engineering form  MBM Engineering College, Jodhpur (MBM, Jodhpur) 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
