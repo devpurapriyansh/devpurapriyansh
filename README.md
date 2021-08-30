@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devpurapriyansh" alt="devpurapriyansh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/d_priyansh" target="blank"><img src="https://img.shields.io/twitter/follow/d_priyansh?logo=twitter&style=for-the-badge" alt="d_priyansh" /></a> </p>
 
 - 📫 How to reach me **priyansh.devpura.1707@gmail.com**
 
